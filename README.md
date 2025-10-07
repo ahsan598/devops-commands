@@ -5,7 +5,7 @@ This is a personal reference guide containing essential commands for commonly us
 It serves as a quick cheat sheet for day-to-day tasks, helping to save time and avoid searching repeatedly.
 
 
-### DevOps tools Commands
+<!-- ### DevOps tools Commands
 
 - [Git](/git-commands.md)
 - [Docker]()
@@ -14,7 +14,7 @@ It serves as a quick cheat sheet for day-to-day tasks, helping to save time and 
 - [Terraform](/terraform-commands.md)
 - [Ansible]()
 - [Vagrant](/vagrant-commands.md)
-- [Google Dorking](/google-dorking.md)
+- [Google Dorking](/google-dorking.md) -->
 
 
 ---
